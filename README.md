@@ -17,53 +17,6 @@ FERNANDO
 OSCAR
 ANDREI
 
-/repositorio-raiz
-│
-├── FERNANDO/
-│   ├── Lenguaje de Marcas/
-│   │   ├── UT1/
-│   │   ├── UT2/
-│   │   ├── UT3/
-│   │   └── UT4/
-│   └── Entornos de Desarrollo/
-│       ├── UT1/
-│       ├── UT2/
-│       ├── UT3/
-│       └── UT4/
-│
-├── OSCAR/
-│   ├── Lenguaje de Marcas/
-│   │   ├── UT1/
-│   │   ├── UT2/
-│   │   ├── UT3/
-│   │   └── UT4/
-│   └── Entornos de Desarrollo/
-│       ├── UT1/
-│       ├── UT2/
-│       ├── UT3/
-│       └── UT4/
-│
-├── ANDREI/
-│   ├── Lenguaje de Marcas/
-│   │   ├── UT1/
-│   │   ├── UT2/
-│   │   ├── UT3/
-│   │   └── UT4/
-│   └── Entornos de Desarrollo/
-│       ├── UT1/
-│       ├── UT2/
-│       ├── UT3/
-│       └── UT4/
-│
-├── Software/
-│   └── GuiaInstalacion.md
-|
-├── gitignore/
-│
-└── README.md
-
-
-Estructura del repositorio en palabras
 
 Raíz del repositorio
 Contiene todas las carpetas de los integrantes, la carpeta de software y el README.
