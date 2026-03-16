@@ -13,8 +13,7 @@ Este repositorio centraliza el material generado durante la asignatura de Lengua
 
 Integrantes:
 
-FERNANDO
-OSCAR
+
 ANDREI
 
 
@@ -23,8 +22,7 @@ Contiene todas las carpetas de los integrantes, la carpeta de software y el READ
 
 Divisiones principales (por integrante)
 
-FERNANDO
-OSCAR
+
 ANDREI
 Subdivisiones dentro de cada integrante
 Cada integrante tiene dos carpetas:
