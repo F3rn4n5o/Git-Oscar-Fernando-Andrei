@@ -82,7 +82,7 @@ El repositorio incluye diferentes tipos de recursos académicos:
 
 ##  Apuntes de teoría
 
-Material elaborado a partir de las clases teóricas.
+Material teorico de la asignatura
 
 Incluye:
 
@@ -90,7 +90,7 @@ Incluye:
 
 ---
 
-## 2️ Ejercicios
+## Ejercicios
 
 Actividades prácticas realizadas durante el curso.
 
