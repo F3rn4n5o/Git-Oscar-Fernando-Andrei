@@ -55,6 +55,8 @@ Repositorio
 │
 ├── gitignore
 │
+├── Instrucciones de Uso
+|
 ├── Responsabilidades de los integrantes y Conflictos.
 │
 └── README.md
@@ -155,23 +157,7 @@ El uso correcto del `.gitignore` permite mantener el repositorio **limpio, segur
 
 ---
 
-#  Instrucciones de Uso
 
-1. Clonar el repositorio en el equipo local:
-
-```
-git clone https://github.com/usuario/repositorio.git
-```
-
-2. Acceder a la carpeta del proyecto:
-
-```
-cd repositorio
-```
-
-3. Navegar por las carpetas según la asignatura, unidad de trabajo o tipo de contenido.
-
----
 
 #  Objetivos de la Práctica
 
@@ -183,6 +169,6 @@ cd repositorio
 
 ---
 
-# 📌 Conclusión
+# Conclusión
 
 Este repositorio actúa como un **repositorio central de aprendizaje**, donde se recopila y documenta todo el material relevante de las asignaturas **Lenguaje de Marcas** y **Entornos de Desarrollo**, aplicando buenas prácticas de organización, control de versiones y documentación profesional.
