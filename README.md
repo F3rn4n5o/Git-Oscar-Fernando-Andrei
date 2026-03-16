@@ -13,12 +13,15 @@ Este repositorio centraliza el material generado durante la asignatura de Lengua
 
 Integrante:
 
-FERNANDO
+
+ANDREI
 
 
 Raíz del repositorio
 Contiene todas las carpetas de Fernando, la carpeta de software y el README.
 
+
+ANDREI
 Subdivisiones dentro de cada integrante
 Cada integrante tiene dos carpetas:
 Lenguaje de Marcas
