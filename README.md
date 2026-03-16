@@ -1,6 +1,4 @@
-# Práctica 2: Gestión colaborativa de
-material académico con Git y GitHub
-UT4 Optimización y Documentación
+# Práctica 2: Gestión colaborativa de material académico con Git y GitHub UT4 Optimización y Documentación
 
 Repositorio de la Práctica 2 de UT4: Gestión colaborativa de material académico con Git y GitHub. Contiene apuntes, ejercicios, prácticas y software de Lenguaje de Marcas y Entornos de Desarrollo.
 
@@ -12,9 +10,6 @@ Este repositorio centraliza el material generado durante la asignatura de Lengua
 
 
 Integrantes:
-
-FERNANDO
-OSCAR
 ANDREI
 
 
@@ -23,8 +18,6 @@ Contiene todas las carpetas de los integrantes, la carpeta de software y el READ
 
 Divisiones principales (por integrante)
 
-FERNANDO
-OSCAR
 ANDREI
 Subdivisiones dentro de cada integrante
 Cada integrante tiene dos carpetas:
