@@ -1,27 +1,24 @@
-# Práctica 2: Gestión colaborativa de
-material académico con Git y GitHub
-UT4 Optimización y Documentación
+# Práctica 2: Gestión colaborativa de material académico con Git y GitHub UT4 Optimización y Documentación
 
 Repositorio de la Práctica 2 de UT4: Gestión colaborativa de material académico con Git y GitHub. Contiene apuntes, ejercicios, prácticas y software de Lenguaje de Marcas y Entornos de Desarrollo.
 
 
 Material de Clase – Lenguaje de Marcas y Entornos de Desarrollo
 
-Descripción del proyecto
+Descripción del proyecto:
 Este repositorio centraliza el material generado durante la asignatura de Lenguaje de Marcas y Entornos de Desarrollo, organizado por integrantes y unidades temáticas. Contiene apuntes, ejercicios, prácticas, y recursos necesarios para el aprendizaje y la práctica de los contenidos de clase.
 
 
 Integrante:
-
-
 ANDREI
+FERNANDO
+OSCAR
 
 
 Raíz del repositorio
 Contiene todas las carpetas de Fernando, la carpeta de software y el README.
 
 
-ANDREI
 Subdivisiones dentro de cada integrante
 Cada integrante tiene dos carpetas:
 Lenguaje de Marcas
