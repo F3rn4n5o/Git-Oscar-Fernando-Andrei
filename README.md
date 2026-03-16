@@ -11,11 +11,9 @@ Descripción del proyecto
 Este repositorio centraliza el material generado durante la asignatura de Lenguaje de Marcas y Entornos de Desarrollo, organizado por integrantes y unidades temáticas. Contiene apuntes, ejercicios, prácticas, y recursos necesarios para el aprendizaje y la práctica de los contenidos de clase.
 
 
-Integrantes:
+Integrante:
 
 FERNANDO
-OSCAR
-ANDREI
 
 
 Raíz del repositorio
